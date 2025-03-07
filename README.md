@@ -11,3 +11,4 @@ This repository contains a **Python implementation** of the **Flower of Life**, 
 ## Preview  
 ![Flower of Life Example](https://github.com/MonteiroOscar98/flower-of-life/blob/main/floweroflife.png?raw=true)  
 
+![Flower of Life Animated](https://github.com/MonteiroOscar98/flower-of-life/blob/b0e854d381182da12e1528c4d15bbc321ed5fb4c/animate%20flower%20of%20life.jpg?raw=true)
