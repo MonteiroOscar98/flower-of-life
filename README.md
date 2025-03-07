@@ -8,5 +8,6 @@ This repository contains a **Python implementation** of the **Flower of Life**, 
 - 📊 **Matplotlib Visualization** – Generates clear, structured plots.  
 - 🚀 **Fun & Educational** – Great for learning about geometry, patterns, and Python visualization.  
 
-## 📷 Preview  
-![Flower of Life Example]([https://your-image-link.com](https://github.com/MonteiroOscar98/flower-of-life/blob/main/floweroflife.png))
+## Preview  
+![Flower of Life Example](https://github.com/MonteiroOscar98/flower-of-life/blob/main/floweroflife.png?raw=true)  
+
